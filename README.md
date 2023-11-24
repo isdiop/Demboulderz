@@ -17,4 +17,7 @@ piste d'amélioration:
 - augmenter les animations du joueur
 - reactivation de la musique in game lorsque désactivée 
 
+Le jeu étant trop lourd je ne peux pas le pusher sur github mais voici une vidéo resumant le process de developpement :
+
+https://youtu.be/Bo01FXyb_D0
  
